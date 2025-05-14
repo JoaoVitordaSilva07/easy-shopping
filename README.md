@@ -17,4 +17,5 @@
 <br>
 
 <h3>Dispositivo mobile:</h3>
+<img src="https://github.com/JoaoVitordaSilva07/easy-shopping/blob/main/img/mobile.png?raw=true">
 
